@@ -1,91 +1,108 @@
-.page > p:first-of-type {
+.page>p:first-of-type {
     color: #7E8184;
     font-style: italic;
-  }
+}
 
-  p:last-of-type {
+p:last-of-type {
     margin-bottom: 50px;
-  }
+}
 
-  .button:link,                 /* Change this */
-    .button:visited { 
+.button:link,
+/* Change this */
+.button:visited {
 
-    display: block;             /* Add this */
-    text-decoration: none;      /* Add this */
+    display: block;
+    /* Add this */
+    text-decoration: none;
+    /* Add this */
     color: #FFF;
-    background-color: #5995DA;    /* Blue */
+    background-color: #5995DA;
+    /* Blue */
     font-weight: bold;
     padding: 20px;
     text-align: center;
-    border: 2px solid #5D6063;    /* Dark gray */
+    border: 2px solid #5D6063;
+    /* Dark gray */
     border-radius: 5px;
-  
+
     width: 200px;
     margin: 20px auto;
-  }
-  
-  .button:hover,
+}
+
+.button:hover,
 .button:visited:hover {
-  color: #FFF;
-  background-color: #76AEED;  /* Light blue */
+    color: #FFF;
+    background-color: #76AEED;
+    /* Light blue */
 }
 
 .button:active,
 .button:visited:active {
-  color: #FFF;
-  background-color: #5995DA;  /* Blue */
+    color: #FFF;
+    background-color: #5995DA;
+    /* Blue */
 }
 
-  .page {
+.page {
     width: 600px;
     margin: 0 auto;
-  }
+}
 
-  #button-2 {
-    background-color: #D55C5F;    /* Red */
-  }
+#button-2 {
+    background-color: #D55C5F;
+    /* Red */
+}
 
-  .call-to-action:link,
+.call-to-action:link,
 .call-to-action:visited {
-  font-style: italic;
-  background-color: #EEB75A;     /* Yellow */
+    font-style: italic;
+    background-color: #EEB75A;
+    /* Yellow */
 }
 
 .call-to-action:hover,
 .call-to-action:visited:hover {
-  background-color: #F5CF8E;     /* Light yellow */
+    background-color: #F5CF8E;
+    /* Light yellow */
 }
 
 .call-to-action:active,
 .call-to-action:visited:active {
-  background-color: #EEB75A;     /* Yellow */
+    background-color: #EEB75A;
+    /* Yellow */
 }
 
 #button-2 {
-    color: #5D6063;  /* Dark gray */
-  }
+    color: #5D6063;
+    /* Dark gray */
+}
 
-  .synopsis em {
+.synopsis em {
     font-style: normal;
-  }
+}
 
-  a:link {
+a:link {
     color: blue;
     text-decoration: none;
-  }
-  a:visited {
+}
+
+a:visited {
     color: purple;
-  }
-  a:hover {
+}
+
+a:hover {
     color: aqua;
     text-decoration: underline;
-  }
-  a:active {
+}
+
+a:active {
     color: red;
-  }
-  a:visited:hover {
+}
+
+a:visited:hover {
     color: orange;
-  }
-  a:visited:active {
+}
+
+a:visited:active {
     color: red;
-  }
+}
