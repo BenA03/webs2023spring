@@ -6,6 +6,7 @@ h1 {
     padding-top: 30px;
     padding-bottom: 15px;
     font-size: larger;
+    overflow-wrap: break-word;
 }
 
 main {
