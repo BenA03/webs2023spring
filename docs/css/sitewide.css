@@ -18,7 +18,14 @@ main {
     margin-left: auto;
 }
 
+/* navbar */
 #navbarIcon
 {
     height: 80px;
+}
+
+.break
+{
+    flex-basis: 100%;
+    height: 0;
 }

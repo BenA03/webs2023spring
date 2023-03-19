@@ -3,16 +3,11 @@
     background-color: white;
 }
 
-.floatRight
-{
-    display: flex;
-    align-items: right;
-}
-
 .nav-item
 {
     font-size: large;
     padding-right: 10px;
+    text-align: right;
 }
 
 .navbar-brand
