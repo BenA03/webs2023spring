@@ -6,8 +6,19 @@ h1 {
     text-align: center;
     padding-top: 30px;
     padding-bottom: 15px;
+    font-size: larger;
 }
 
 main {
     background-color: lightgray;
+}
+
+.alignRight
+{
+    margin-left: auto;
+}
+
+#navbarIcon
+{
+    height: 80px;
 }

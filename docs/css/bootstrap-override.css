@@ -2,3 +2,20 @@
 {
     background-color: white;
 }
+
+.floatRight
+{
+    display: flex;
+    align-items: right;
+}
+
+.nav-item
+{
+    font-size: large;
+    padding-right: 10px;
+}
+
+.navbar-brand
+{
+    display: flex;
+}
