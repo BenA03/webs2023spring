@@ -81,3 +81,10 @@ footer
     font-size: 0.7em;
     margin-top: auto;
 }
+
+footer img
+{
+    height: 40px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+}
