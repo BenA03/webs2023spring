@@ -13,4 +13,5 @@
 .navbar-brand
 {
     display: flex;
+    max-width: fit-content;
 }
