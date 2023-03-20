@@ -23,6 +23,33 @@ body {
 .jumbotron
 {
     background-color: white;
+    margin-bottom: 0px;
+}
+
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.limitWidth
+{
+    max-width: 90%;
+}
+
+.stretch
+{
+    align-items: stretch;
+}
+
+.matchPrevSibling
+{
+    height: 100%;
+}
+
+.addBottomPadding
+{
+    padding-bottom: 50px;
 }
 
 /* navbar */
