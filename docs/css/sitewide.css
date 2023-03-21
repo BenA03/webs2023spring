@@ -67,6 +67,15 @@ body {
     align-items: stretch;
 }
 
+@media only screen and (max-width: 500px) 
+{
+    .imagecards
+    {
+        display: flex;
+        flex-wrap: wrap-reverse;
+    }
+}
+
 .matchPrevSibling
 {
     height: 100%;
@@ -75,6 +84,13 @@ body {
 .addBottomPadding
 {
     padding-bottom: 50px;
+}
+
+.imagediv
+{
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: 50%;
 }
 
 /* navbar */
