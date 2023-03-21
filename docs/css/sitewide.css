@@ -137,3 +137,9 @@ footer img
     padding-bottom: 10px;
     padding-right: 5px;
 }
+
+/* Form */
+form
+{
+    margin-top: 20px;
+}
