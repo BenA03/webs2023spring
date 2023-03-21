@@ -3,7 +3,7 @@
 }
 
 /* Mobile Styles */
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
     .reactiveCenter {
       margin-left: auto;
       margin-right: auto;
