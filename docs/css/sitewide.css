@@ -76,11 +76,6 @@ body {
     }
 }
 
-.matchPrevSibling
-{
-    height: 100%;
-}
-
 .addBottomPadding
 {
     padding-bottom: 50px;
