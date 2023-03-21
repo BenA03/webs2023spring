@@ -36,13 +36,13 @@
                         <a class="nav-link" href="index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About us</a>
+                        <a class="nav-link" href="e404.html">About us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Performances</a>
+                        <a class="nav-link" href="e404.html">Performances</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Our music</a>
+                        <a class="nav-link" href="e404.html">Our music</a>
                     </li>
                     <li class="nav-item active">
                         <a class="nav-link" href="contact.html">Contact us <span class="sr-only">(current)</span></a>
@@ -53,21 +53,30 @@
     </nav>
 
     <!-- *************** Start of content *************** -->
+    <div class = "textcontainter center">
+        <h2>Get in touch with the ensemble</h2>
+    <p>Looking to join the ensemble? Have questions for our club officers? Looking to book us for your next event? Send us a message here!</p>
+</div>
     <div class="card" id="formContainer">
-    <form action="https://send.pageclip.co/1EScdIODeVljomlAmuVUt5rovrTm7RrP" class="pageclip-form" method="post">
-        <!-- Replace these inputs with your own. Make sure they have a "name" attribute! -->
-        <label for="email">Email address</label>
-        <input class="form-control" type="email" name="email" id="email"/>
-        <label for="subject">Subject</label>
-        <input class="form-control" type="text" name="subject" id="subject"/>
-        <label for="content">How can we help you?</label>
-        <textarea class="form-control" id="content" rows="3" name="content"></textarea>
-      
-        <!-- This button will have a loading spinner. Keep the inner span for best results. -->
-        <button type="submit" class="pageclip-form__submit btn btn-primary">
-          <span>Send</span>
-        </button>
-      </form>
+        <div class="card-header"> <!-- bad code but I like the way it looks -->
+        </div>
+        <div class="card-body">
+            <form action="https://send.pageclip.co/1EScdIODeVljomlAmuVUt5rovrTm7RrP" class="pageclip-form"
+                method="post">
+                <!-- Replace these inputs with your own. Make sure they have a "name" attribute! -->
+                <label for="email">Email address</label>
+                <input class="form-control" type="email" name="email" id="email" />
+                <label for="subject">Subject</label>
+                <input class="form-control" type="text" name="subject" id="subject" />
+                <label for="content">How can we help you?</label>
+                <textarea class="form-control" id="content" rows="3" name="content"></textarea>
+
+                <!-- This button will have a loading spinner. Keep the inner span for best results. -->
+                <button type="submit" class="pageclip-form__submit btn btn-primary">
+                    <span>Send</span>
+                </button>
+            </form>
+        </div>
     </div>
 
     <!-- *************** End of content *************** -->
