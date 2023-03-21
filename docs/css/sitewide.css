@@ -141,5 +141,14 @@ footer img
 /* Form */
 form
 {
+    padding: 20px;
+}
+
+#formContainer
+{
     margin-top: 50px;
+    margin-bottom: 50px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
