@@ -2,6 +2,14 @@
     font-family: Tahoma, sans-serif;
 }
 
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+    .reactiveCenter {
+      margin-left: auto;
+      margin-right: auto;
+    }
+}
+
 main {
     background-color: white;
     flex: 1;
