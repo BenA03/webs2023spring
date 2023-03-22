@@ -62,30 +62,41 @@ body {
     max-width: 90%;
 }
 
-.stretch
-{
-    align-items: stretch;
-}
 
-@media only screen and (max-width: 500px) 
-{
     .imagecards
     {
         display: flex;
         flex-wrap: wrap-reverse;
     }
-}
+
+    .card img
+    {
+        /*max-height: 300px;*/
+        height: auto;
+        width: auto;
+    }
+
+    .card
+    {
+        width: auto;
+    }
 
 .addBottomPadding
 {
     padding-bottom: 50px;
 }
 
-.imagediv
+.fillContainer
 {
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-position: 50%;
+    height: 100%;
+}
+
+@media only screen and (max-width: 480px) 
+{
+    .jumbotron a:not(:last-child)
+    {
+        margin-bottom: 5px;
+    }
 }
 
 /* navbar */
