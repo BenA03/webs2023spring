@@ -1,6 +1,16 @@
-.upwards-padding
+.cal-entry
 {
-    padding-top: 15px;
+    display: flex;
+}
+
+.cal-entry:not(last-child)
+{
+    margin-bottom: 10px;
+}
+
+.margin-top
+{
+    margin-top: 30px;
 }
 
 .cal-icon
