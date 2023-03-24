@@ -63,5 +63,6 @@
     .card img
     {
         max-height: none;
+        height: fit-content;
     }
 }
