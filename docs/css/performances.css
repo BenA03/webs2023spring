@@ -1,0 +1,50 @@
+.upwards-padding
+{
+    padding-top: 15px;
+}
+
+.cal-icon
+{
+    border: black;
+    background-color: #C0C0C0; /* light grey */
+    height: fit-content;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+.cal-icon div
+{
+    text-align: center;
+}
+
+.cal-icon div:first-child
+{
+    font-size: x-large;
+}
+
+.cal-info
+{
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.cal-info li:first-child
+{
+    font-size: large;
+    font-weight: bold;
+}
+
+li
+{
+    display: flex;
+    align-items: center;
+}
+
+li img
+{
+    height: 20px;
+    margin-right: 3px;
+}
