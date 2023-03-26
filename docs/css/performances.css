@@ -59,3 +59,17 @@ li img
     height: 20px;
     margin-right: 3px;
 }
+
+.image-col
+{
+    display: flex;
+    align-items: center;
+}
+
+.image-col img
+{
+    max-width: 100%;
+    max-height: 400px;
+    width: auto;
+
+}
