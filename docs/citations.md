@@ -18,3 +18,9 @@ Free Download Location 133 SVG vector file in monocolor and multicolor type for 
 COLLECTION: Nova Circular Line Icons
 LICENSE: CC Attribution License BY
 AUTHOR: Dmitriy Novikov
+
+Handbell Man clipart
+Author: publicdomainq.net
+Attribution link: publicdomainq.net
+License:
+Public Domain. Free for editorial, educational, commercial, and/or personal projects. No attribution required. More info.
