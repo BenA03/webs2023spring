@@ -257,4 +257,8 @@ button
     {
         width: 100%;
     }
+    .responsive-wrap-800 .biography
+    {
+        width: 100%;
+    }
 }
