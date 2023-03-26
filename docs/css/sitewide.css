@@ -100,7 +100,7 @@ nav
 }
 @media only screen and (max-width: 500px) 
 {
-    #navbarIcon {padding-right: none;}
+    #navbarIcon {padding-right: 0;}
 }
 
 .break
