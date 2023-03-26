@@ -31,9 +31,9 @@ h3
     padding: 0;
 }
 
-.jumbotron *
+.jumbotron p:not(:last-child)
 {
-    margin-bottom: 35px;
+    margin-bottom: 50px;
 }
 
 @media (max-width: 800px)
