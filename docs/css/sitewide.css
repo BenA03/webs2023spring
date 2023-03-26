@@ -31,11 +31,6 @@ body {
     flex-direction: column;
 }
 
-.btn-primary
-{
-    background-color: goldenrod;
-}
-
 .music-background
 {
     background-image: url(../img/wavy-banner.svg);
