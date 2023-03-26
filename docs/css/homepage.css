@@ -1,7 +1,6 @@
 #homepage-image 
 {
-    padding: 40px;
-    max-width: 600px;
+    max-width: 500px;
 }
 
 .music-divider
@@ -13,4 +12,31 @@
 .music-divider img
 {
     height: 100px; 
+}
+
+h3
+{
+    /* TODO */
+}
+
+.third
+{
+    width: 33%;
+}
+
+.jumbotron
+{
+    padding: 0;
+}
+
+@media (max-width: 800px)
+{
+    .responsive-wrap-800
+    {
+        flex-direction: column;
+    }
+    .responsive-wrap-800 .card
+    {
+        width: 100%;
+    }
 }

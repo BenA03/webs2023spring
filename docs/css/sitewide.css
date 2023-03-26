@@ -81,6 +81,11 @@ body {
     margin-bottom: 10px;
 }
 
+.align-bottom
+{
+    margin-top: auto;
+}
+
 
 /* navbar */
 nav
