@@ -31,6 +31,11 @@ h3
     padding: 0;
 }
 
+.jumbotron *
+{
+    margin-bottom: 35px;
+}
+
 @media (max-width: 800px)
 {
     .responsive-wrap-800

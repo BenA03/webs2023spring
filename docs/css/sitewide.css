@@ -42,6 +42,22 @@ body {
 {
     background-color: goldenrod;
     border-color: goldenrod;
+    color: black;
+}
+
+
+.btn:hover
+{
+    background-color: #F2DDA6;
+    border-color: #F2DDA6;
+    color: black;
+}
+
+.btn:active
+{
+    background-color: goldenrod;
+    border-color: goldenrod;
+    color: black;
 }
 
 /* General styles */
