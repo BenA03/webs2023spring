@@ -1,0 +1,16 @@
+#homepage-image 
+{
+    padding: 40px;
+    max-width: 600px;
+}
+
+.music-divider
+{
+    width: 100%; 
+    overflow: hidden;
+}
+
+.music-divider img
+{
+    height: 100px; 
+}
