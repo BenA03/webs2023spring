@@ -231,3 +231,30 @@ button
 {
     gap: 15px;
 }
+
+.add-gap-lg
+{
+    gap: 30px;
+}
+
+.align-flex-bottom
+{
+    align-items: end;
+}
+
+.align-flex-vert-center
+{
+    align-items: center;
+}
+
+@media (max-width: 800px)
+{
+    .responsive-wrap-800
+    {
+        flex-direction: column;
+    }
+    .responsive-wrap-800 .card
+    {
+        width: 100%;
+    }
+}

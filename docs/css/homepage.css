@@ -35,15 +35,3 @@ h3
 {
     margin-bottom: 50px;
 }
-
-@media (max-width: 800px)
-{
-    .responsive-wrap-800
-    {
-        flex-direction: column;
-    }
-    .responsive-wrap-800 .card
-    {
-        width: 100%;
-    }
-}
