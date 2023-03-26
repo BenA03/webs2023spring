@@ -31,6 +31,13 @@ body {
     flex-direction: column;
 }
 
+.music-background
+{
+    background-image: url(../img/wavy-banner.svg);
+    background-repeat: no-repeat;
+    background-position: 0% 80%;
+}
+
 /* General styles */
 .alignRight
 {
@@ -40,7 +47,7 @@ body {
 
 .jumbotron
 {
-    background-color: white;
+    background-color: inherit;
     margin-bottom: 0px;
 }
 
