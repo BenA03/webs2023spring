@@ -38,6 +38,12 @@ body {
     background-position: 0% 80%;
 }
 
+.btn
+{
+    background-color: goldenrod;
+    border-color: goldenrod;
+}
+
 /* General styles */
 .alignRight
 {
