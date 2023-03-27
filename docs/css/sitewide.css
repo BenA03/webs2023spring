@@ -261,4 +261,8 @@ button
     {
         width: 100%;
     }
+    .responsive-wrap-800 div
+    {
+        width: 100% !important;
+    }
 }

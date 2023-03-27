@@ -73,3 +73,8 @@ li img
     width: auto;
 
 }
+
+#recent-performances div
+{
+    width: 24%;
+}
