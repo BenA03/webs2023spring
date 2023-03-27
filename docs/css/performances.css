@@ -48,13 +48,13 @@
     font-weight: bold;
 }
 
-li
+.cal-info li
 {
     display: flex;
     align-items: center;
 }
 
-li img
+.cal-info li img
 {
     height: 20px;
     margin-right: 3px;
