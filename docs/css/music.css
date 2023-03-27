@@ -13,3 +13,30 @@
 {
     background-color: goldenrod;
 }
+
+.song-grid
+{
+    display: flex;
+}
+
+.song-grid div
+{
+  flex-grow: 1;
+}
+
+
+
+iframe{
+    width: 100%;
+    height: auto;
+}
+
+#staging-area
+{
+    margin-bottom: 40px;
+}
+
+.bottom-padding
+{
+    margin-bottom: 20px;
+}
