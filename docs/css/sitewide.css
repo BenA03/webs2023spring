@@ -265,4 +265,11 @@ button
     {
         width: 100% !important;
     }
+    .responsive-center-800
+    {
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        align-self: center;
+    }
 }
