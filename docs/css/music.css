@@ -1,0 +1,14 @@
+.year-selected a
+{
+    background-color: goldenrod;
+}
+
+.year-selected a:hover
+{
+    background-color: #F2DDA6;
+}
+
+.page-item a:hover
+{
+    background-color: #F2DDA6;
+}
