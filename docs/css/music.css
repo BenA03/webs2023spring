@@ -11,4 +11,5 @@
 .page-item a:hover
 {
     background-color: #F2DDA6;
+    cursor: pointer;
 }
