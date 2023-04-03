@@ -277,4 +277,8 @@ button
         display: flex;
         align-self: center;
     }
+    .responsive-wrap-800 figure
+    {
+        width: 100% !important;
+    }
 }
