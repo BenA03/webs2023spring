@@ -74,7 +74,7 @@
 
 }
 
-#recent-performances div
+#recent-performances > figure
 {
     width: 24%;
 }

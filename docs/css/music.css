@@ -26,10 +26,12 @@
 
 
 
-iframe{
+iframe, .youtube
+{
     width: 100%;
     height: auto;
 }
+
 
 #staging-area
 {
