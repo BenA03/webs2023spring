@@ -12,3 +12,8 @@
     margin-bottom: 40px;
     margin-top: 30px;
 }
+
+.card *
+{
+    padding: 10px;
+}
