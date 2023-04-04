@@ -45,7 +45,6 @@ body {
     color: black;
 }
 
-
 .btn:hover
 {
     background-color: #F2DDA6;
@@ -60,18 +59,17 @@ body {
     color: black;
 }
 
-iframe
-{
-    border: 0;
-    margin: 0;
-    padding: 0;
-}
-
 figure
 {
     margin-bottom: 10px;
     display: flex;
     flex-direction: column;
+}
+
+iframe
+{
+    height: auto;
+    border: 0;
 }
 
 figcaption
@@ -80,6 +78,7 @@ figcaption
     text-align: center;
     background-color: black;
     color: white;
+    height: auto;
 }
 
 /* General styles */
