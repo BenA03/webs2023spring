@@ -30,6 +30,11 @@
   width: 33.333%;
 }
 
+.two > figure
+{
+  width: 50%;
+}
+
 #staging-area
 {
     margin-bottom: 40px;

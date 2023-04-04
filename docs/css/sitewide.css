@@ -76,9 +76,8 @@ figcaption
 {
     font-weight: bold;
     text-align: center;
-    background-color: black;
+    background-color: #202020; /* very dark grey */
     color: white;
-    height: auto;
 }
 
 /* General styles */
