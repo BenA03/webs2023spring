@@ -17,21 +17,18 @@
 .song-grid
 {
     display: flex;
+    gap: 10px;
 }
 
-.song-grid div
+.four > figure
 {
-  flex-grow: 1;
+  width: 25%;
 }
 
-
-
-iframe, .youtube
+.three > figure
 {
-    width: 100%;
-    height: auto;
+  width: 33.333%;
 }
-
 
 #staging-area
 {

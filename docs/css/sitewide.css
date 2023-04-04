@@ -60,6 +60,28 @@ body {
     color: black;
 }
 
+iframe
+{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+figure
+{
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+figcaption
+{
+    font-weight: bold;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
 /* General styles */
 .alignRight
 {
