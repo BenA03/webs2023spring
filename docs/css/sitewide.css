@@ -64,6 +64,7 @@ figure
     margin-bottom: 10px;
     display: flex;
     flex-direction: column;
+    background-color: grey;
 }
 
 iframe
