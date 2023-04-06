@@ -64,6 +64,10 @@ figure
     margin-bottom: 10px;
     display: flex;
     flex-direction: column;
+}
+
+figure div
+{
     background-color: grey;
 }
 
@@ -278,6 +282,10 @@ button
     .responsive-wrap-800
     {
         flex-direction: column;
+    }
+    .responsive-reverse
+    {
+        flex-direction: column-reverse;
     }
     .responsive-wrap-800 .card
     {
