@@ -92,6 +92,11 @@ figcaption
     text-align: right;
 }
 
+.hide
+{
+    display: none;
+}
+
 .jumbotron
 {
     background-color: inherit;
@@ -279,6 +284,10 @@ button
 
 @media (max-width: 800px)
 {
+    .phone-visible-only
+    {
+        display: block;
+    }
     .responsive-wrap-800
     {
         flex-direction: column;
